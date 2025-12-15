@@ -1,5 +1,8 @@
 # Simple Memory Plugin for OpenCode
 
+[![npm version](https://img.shields.io/npm/v/@knikolov/opencode-plugin-simple-memory)](https://www.npmjs.com/package/@knikolov/opencode-plugin-simple-memory)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A persistent memory plugin for [OpenCode](https://opencode.ai) that enables the AI assistant to remember context across sessions.
 
 ## Setup
