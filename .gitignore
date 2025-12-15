@@ -1,6 +1,9 @@
 # dependencies (bun install)
 node_modules
 
+# opencode runtime data
+.opencode
+
 # output
 out
 dist
